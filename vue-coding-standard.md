@@ -42,11 +42,11 @@ SYMBOLIC_CONSTANTS_LIKE_THIS
 
 4. **Other naming related recommendations**
 ```
-// strings
-const dog
+// string
+const dog = '...'
 
-// arrays
-const dog
+// array
+const dogs = []
 ```
 
 ### Inline comments
